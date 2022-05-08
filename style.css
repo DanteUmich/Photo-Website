@@ -3,5 +3,7 @@ h1 {
     padding-top: 25px;
 }
 li {
+    Font-size: 25px;
     display: inline;
+    margin: 20 PX;
 }
