@@ -5,4 +5,5 @@ h1 {
 li {
     Font-size: 25px;
     margin: 20px;
+    list-style:none;
 }
